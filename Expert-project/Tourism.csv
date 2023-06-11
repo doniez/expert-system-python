@@ -1,0 +1,62 @@
+Name of place,Country,Budget,Type of place
+Machu Picchu,Peru,9500,Historical
+Tikal,Guatemala,9500,Historical
+The Pyramids at Giza,Egypt,9500,Historical
+Angkor Wat,Cambodia,9500,Historical
+Petra,"Jordan
+",9500,Historical
+Stonehenge,England,5700,Historical
+The Colosseum and Forum,Italy,5700,Historical
+The Parthenon,Greece,5700,Historical
+Easter Island,Chile,5700,Historical
+The Alhambra,California,5700,Historical
+Taj Mahal,India,1900,Historical
+The Great Wall of China,China,1900,Historical
+Chichén Itzá,Mexico,1900,Historical
+Volubilis,Morocco,1900,Historical
+Sukhothai,Thailand,1900,Historical
+Victoria Peak,Hong Kong,9500,Hill Station
+Mount Mogan,China,9500,Hill Station
+Alaska,USA,9500,Hill Station
+Arizona,USA,9500,Hill Station
+Geneva,Europe,9500,Hill Station
+Zurich,Europe,5700,Hill Station
+Cape Town,Africa,5700,Hill Station
+Aspen,USA,5700,Hill Station
+Da Lat,Vietnam,5700,Hill Station
+Cooktown,Australia,5700,Hill Station
+Shimla,India,1900,Hill Station
+Ooty,India,1900,Hill Station
+Darjeeling and Gangtok,India,1900,Hill Station
+Bandarban,Banladesh,1900,Hill Station
+Pyin U Lwin,Burma,1900,Hill Station
+Arabian Desert,UAE,9500,Desert
+Mundulea Reserve,"Namibia,Afica",9500,Desert
+Sahara Desert,Egypt,9500,Desert
+The Central Kalahari Game Reserve,Africa,9500,Desert
+Black Rock Desert,USA,9500,Desert
+Wahiba sands,Oman,5700,Desert
+The Central Kalahari Game Reserve,Africa,5700,Desert
+Maasai Mara,Kenya,5700,Desert
+Duba,Africa,5700,Desert
+Ruaha National Park,Tanzania,5700,Desert
+Thar Desert,India,1900,Desert
+Northern Kenya,Kenya,1900,Desert
+Duba,Africa,1900,Desert
+Gorillas,Rwanda,1900,Desert
+Ruaha National Park,Tanzania,1900,Desert
+El Nido,Philippines,9500,Beach
+Honokalani Beach,HI,9500,Beach
+Pansy Island,Mozambique,9500,Beach
+Anse Lazio,Seychelles,9500,Beach
+Honopu Beach,HI,9500,Beach
+Sunset Beach,HI,5700,Beach
+Ipanema Beach,Brazil,5700,Beach
+Blue Beach,Puerto Rico,5700,Beach
+Praia Mole,Brazil,5700,Beach
+Waipio Valley Beach,HI,5700,Beach
+Matira Beach,French Polynesia,1900,Beach
+Long Beach,Thailand,1900,Beach
+Puka Beach,Philippines,1900,Beach
+Horseshoe Bay,Bermuda,1900,Beach
+Temae and Teavora,French Polynesia,1900,Beach
